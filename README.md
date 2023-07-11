@@ -16,6 +16,8 @@ In this project, I analyzed the collected first 100 days COVID 19 spreading data
 **Technologies used:**
 Python, numpy, pandas, seaborn, matplotlib
 
+![](https://github.com/Dr-S-Das/Supriya_Portfolio/blob/main/images/Covid%2019_corr%20diag.png)
+
 ## Project 2: Sentiment Analysis on Social Media Data
 
 Description: This project involved analyzing sentiments expressed in social media data. I used natural language processing techniques to classify tweets as positive, negative, or neutral, and performed sentiment analysis to gain insights from the data.
