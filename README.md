@@ -1,16 +1,17 @@
 # Supriya_Portfolio
 
 Welcome to my data science portfolio! 
-This repository contains a collection of projects that demonstrate my skills and experience in the field of data science. Each project focuses on different aspects of data analysis, machine learning, and statistical modeling.
+
+This portfolio contains a collection of projects that demonstrate my skills and experience in the field of data science. Each project focuses on different aspects of data analysis, machine learning, and statistical modeling.
 
 # Project List
 ## [Project 1: COVID 19 Analysis: Project Overview](https://github.com/Dr-S-Das/displayprojects/blob/main/COVID%2019%20Analysis.ipynb)
 
 **Description:** 
 In this project, I analyzed the collected first 100 days COVID 19 spreading dataset across worldwide countries/ regions. 
-1. I re-arranged the countries in order with the maximum infection rate.
-2. Based on the analysis of GDP per capita, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption for these countries, thereafter, I generated a Happiness Report.
-3. To understand the correlation between these above-mentioned factors and the maximum rate of infection, I produced a correlation diagrams. 
+1. Re-arranged the countries in order with the maximum infection rate.
+2. Generated a Happiness Report based on the analysis of GDP per capita, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption for these countries.
+3. Produced correlation diagrams to understand the correlation between these above-mentioned factors and the maximum rate of infection. 
 
 **Technologies used:**
 Python, numpy, pandas, seaborn, matplotlib
