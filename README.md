@@ -11,7 +11,7 @@ This portfolio contains a collection of projects that demonstrate my skills and 
 In this project, I analyzed the collected first 100 days COVID 19 spreading dataset across worldwide countries/ regions. 
 1. Re-arranged the countries in order with the maximum infection rate.
 2. Generated a Happiness Report based on the analysis of GDP per capita, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption for these countries.
-3. Produced correlation diagrams to understand the correlation between these above-mentioned factors and the maximum rate of infection. 
+3. Produced correlation diagrams and Regression plots to understand the correlation between these above-mentioned factors and the maximum rate of infection. 
 
 **Technologies used:**
 Python, numpy, pandas, seaborn, matplotlib
