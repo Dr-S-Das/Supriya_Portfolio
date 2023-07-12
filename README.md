@@ -21,6 +21,10 @@ Python, numpy, pandas, seaborn, matplotlib
 
 
 
+
+
+
+
 ## [Project 2: Tumor Prediction Model: Project Overview](https://github.com/Dr-S-Das/displayprojects/blob/main/Tumor%20Detection.ipynb)
 
 **Description:** 
@@ -39,7 +43,8 @@ Python, numpy, pandas, seaborn, matplotlib, sklearn
 
 
 
-Contact Information
+Contact Information:  
+
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at dspr2010@gmail.com
 
 *Thank you for visiting my data science portfolio! I hope you find these projects informative and inspiring!*
