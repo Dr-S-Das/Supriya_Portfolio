@@ -21,7 +21,7 @@ Python, numpy, pandas, seaborn, matplotlib
 
 
 
-## [Project 2: COVID 19 Analysis: Project Overview](https://github.com/Dr-S-Das/displayprojects/blob/main/Tumor%20Detection.ipynb)
+## [Project 2: Tumor Prediction Model: Project Overview](https://github.com/Dr-S-Das/displayprojects/blob/main/Tumor%20Detection.ipynb)
 
 **Description:** 
 In this project, I analyzed a dataset of tumors with different characteristic features and then prepared a model for tumor detection. 
