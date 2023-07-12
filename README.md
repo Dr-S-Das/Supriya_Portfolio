@@ -16,20 +16,31 @@ In this project, I analyzed the collected first 100 days COVID 19 spreading data
 **Technologies used:**
 Python, numpy, pandas, seaborn, matplotlib
 
+
 ![](https://github.com/Dr-S-Das/Supriya_Portfolio/blob/main/images/Covid%2019_corr%20diag.png)
 
-## Project 2: Sentiment Analysis on Social Media Data
 
-Description: This project involved analyzing sentiments expressed in social media data. I used natural language processing techniques to classify tweets as positive, negative, or neutral, and performed sentiment analysis to gain insights from the data.
-Technologies used: Python, NLTK, scikit-learn, pandas.
-## Project 3: Predictive Maintenance for Industrial Equipment
 
-Description: The objective of this project was to develop a predictive maintenance model for industrial equipment. I utilized sensor data from machinery to predict failures and recommend maintenance actions, helping to reduce downtime and improve operational efficiency.
-Technologies used: Python, scikit-learn, pandas, matplotlib.
+## [Project 2: COVID 19 Analysis: Project Overview](https://github.com/Dr-S-Das/displayprojects/blob/main/Tumor%20Detection.ipynb)
+
+**Description:** 
+In this project, I analyzed a dataset of tumors with different characteristic features and then prepared a model for tumor detection. 
+1. Grouped the columns based on 'mean', 'se' and 'worst' features of data.
+2. A statistical summary for all the characteristic features of the types of tumors were made.
+3. A data correlation table was prepared along with a heatmap for the correlation.
+4. The entire dataset was splitted into a trained and a test dataset to design a model for tumor prediction.
+5. Accuracy of the prediction model was tested using random forest classifier.
+
+**Technologies used:**
+Python, numpy, pandas, seaborn, matplotlib, sklearn
+
+![](https://github.com/Dr-S-Das/Supriya_Portfolio/blob/main/images/tumor%20prediction%20heatmap.png)
+
+
 
 
 Contact Information
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at your-email@example.com.
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at dspr2010@gmail.com
 
 *Thank you for visiting my data science portfolio! I hope you find these projects informative and inspiring!*
 
